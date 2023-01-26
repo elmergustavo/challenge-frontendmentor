@@ -17,4 +17,5 @@
 |**order summary component**|[🔴 Tutorial Video](https://www.youtube.com/watch?v=QIL8z27nAiI)|[Live Demo](https://earnest-chaja-0b0700.netlify.app/)|
 |**GitHub user search app**|[🔴 Tutorial Video](https://youtu.be/GfM_PW2vfF0)|[Live Demo](https://vite-github-user-search-app.vercel.app/)|
 |**Calculator app** |[🔴 Tutorial Video](https://youtu.be/izV7-_iZ9uc) | [Live Demo](https://calculator-app-coral.vercel.app/) |
+|**Single-page design portfolio** |[🔴 Tutorial Video](https://youtu.be/UkgZPz2VDkE) | [Live Demo](https://single-page-design-portfolio-tau.vercel.app/) |
 
