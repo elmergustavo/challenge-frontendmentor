@@ -18,4 +18,5 @@
 |**GitHub user search app**|[🔴 Tutorial Video](https://youtu.be/GfM_PW2vfF0)|[Live Demo](https://vite-github-user-search-app.vercel.app/)|
 |**Calculator app** |[🔴 Tutorial Video](https://youtu.be/izV7-_iZ9uc) | [Live Demo](https://calculator-app-coral.vercel.app/) |
 |**Single-page design portfolio** |[🔴 Tutorial Video](https://youtu.be/UkgZPz2VDkE) | [Live Demo](https://single-page-design-portfolio-tau.vercel.app/) |
+|**NFT preview card component** |[🔴 Tutorial Video](https://youtu.be/2p73sEnkXp8) | [Live Demo](https://boisterous-kataifi-1f43e6.netlify.app/) |
 
