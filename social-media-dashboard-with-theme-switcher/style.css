@@ -113,6 +113,11 @@ body {
 p.overall-up, .overview-up p {
   color: hsl(163, 72%, 41%);
 }
+
+p.overall-today, .overall-today p {
+  color: hsl(163, 72%, 41%);
+}
+
 p.overall-down, .overview-down p {
   color: hsl(356, 69%, 56%);
 }
