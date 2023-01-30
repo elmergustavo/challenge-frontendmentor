@@ -11,6 +11,12 @@
   </p>
 </div>
 
+<div align="center">
+
+  <img src="https://github.com/elmergustavo/challenge-frontendmentor/blob/master/Image.svg" alt="frontendmentor" width="300">
+
+</div>
+
 
 |Challange                |Video Tutorial                         |Live Demo                         |
 |----------------|-------------------------------|-----------------------------|
