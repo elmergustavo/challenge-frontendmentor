@@ -26,4 +26,5 @@
 |4. **Single-page design portfolio** |[🔴 Tutorial Video](https://youtu.be/UkgZPz2VDkE) | [Live Demo](https://single-page-design-portfolio-tau.vercel.app/) |
 |5. **NFT preview card component** |[🔴 Tutorial Video](https://youtu.be/2p73sEnkXp8) | [Live Demo](https://boisterous-kataifi-1f43e6.netlify.app/) |
 |6. **Social media dashboard with theme switcher** |[🔴 Tutorial Video](https://youtu.be/023HLic824s) | [Live Demo](https://lambent-starlight-6f4cb2.netlify.app/) |
+|7. **Results summary component** |[🔴 Tutorial Video](https://youtu.be/023HLic824s) | [Live Demo](https://challenge-frontendmentor.vercel.app/) |
 
